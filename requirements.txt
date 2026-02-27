@@ -1,0 +1,6 @@
+gradio
+groq
+edge-tts
+langgraph
+pandas
+matplotlib
